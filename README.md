@@ -1,1 +1,1 @@
-Super Personal Greeter
+Super Personal Greeter (v)
