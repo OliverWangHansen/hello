@@ -1,1 +1,1 @@
-World Greeter
+Personal Greeter
