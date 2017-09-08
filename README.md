@@ -1,3 +1,1 @@
-World Greeter
-
-- In Develop branch
+Personal Greeter
